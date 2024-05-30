@@ -1,0 +1,8 @@
+fastapi
+pydantic
+uvicorn
+torch
+transformers
+pillow
+requests
+numpy
